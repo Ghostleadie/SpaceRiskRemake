@@ -1,0 +1,27 @@
+[submodule "Core/Vendors/assimp"]
+	path = Core/Vendors/assimp
+	url = https://github.com/assimp/assimp.git
+[submodule "Core/Vendors/bullet"]
+	path = Core/Vendors/bullet
+	url = https://github.com/bulletphysics/bullet3.git
+[submodule "Core/Vendors/freetype"]
+	path = Core/Vendors/freetype
+	url = https://github.com/freetype/freetype.git
+[submodule "Core/Vendors/glad"]
+	path = Core/Vendors/glad
+	url = https://github.com/Dav1dde/glad.git
+[submodule "Core/Vendors/glfw"]
+	path = Core/Vendors/glfw
+	url = https://github.com/glfw/glfw.git
+[submodule "Core/Vendors/glm"]
+	path = Core/Vendors/glm
+	url = https://github.com/g-truc/glm.git
+[submodule "Core/Vendors/imgui"]
+	path = Core/Vendors/imgui
+	url = https://github.com/ocornut/imgui.git
+[submodule "Core/Vendors/spdlog"]
+	path = Core/Vendors/spdlog
+	url = https://github.com/gabime/spdlog.git
+[submodule "Core/Vendors/stb"]
+	path = Core/Vendors/stb
+	url = https://github.com/nothings/stb.git
