@@ -11,6 +11,7 @@ project "Core"
    {
       "Source"
    }
+   
 
    targetdir ("../Binaries/" .. OutputDir .. "/%{prj.name}")
    objdir ("../Binaries/Intermediates/" .. OutputDir .. "/%{prj.name}")
